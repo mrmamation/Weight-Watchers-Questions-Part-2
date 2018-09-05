@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="10.240287">
+<testcase classname="Weightwatchers Website Functions" name="Weightwatchers Login Test" time="10.240287">
+<system-out><![CDATA[Given user is already on landing page.......................................passed
+When title of landing page contains Weight Loss Program, Recipes & Help | Weight Watchers.passed
+Then user clicks on Find A Meeting..........................................passed
+And user verifies web page contains Get Schedules & Times Near You..........passed
+Then user enters text in the search field and clicks search.................passed
+Then print result title and distance and verify.............................passed
+Then print TODAY’s hours of operation.......................................passed
+Then close the browser......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
